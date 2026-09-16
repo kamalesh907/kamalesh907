@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=KAMALESHWARAN%20D&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20WEB%20DEVELOPMENT%20%7C%20PROBLEM%20SOLVER&descAlignY=58&descSize=18"/>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+real-world+projects;Solving+problems+with+code;Exploring+Artificial+Intelligence;Learning+DSA+%26+Competitive+Programming;Turning+ideas+into+working+solutions" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/EDUCATION-B.E.%20CSE-6D28D9?style=for-the-badge"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+real-world+projects;Solving+problems+with+code;Exploring+Artificial+Intelligence;Learning+DSA+%26+Competitive+Programming;Turning+ideas+into+working+solutions" alt="Typing SVG" />
 
 <br/><br/>
@@ -288,6 +293,6 @@ Improve
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
 
 </div>
