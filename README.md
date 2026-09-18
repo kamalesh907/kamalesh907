@@ -4,6 +4,10 @@
 
 ### Full Stack Developer | AI & Web Development | Problem Solver
 
+<p>
+  🌐 <a href="https://kamaleshwarandportfolio.netlify.app"><strong>Visit My Portfolio</strong></a>
+</p>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Real-World+Projects;Solving+Problems+With+Code;Exploring+Artificial+Intelligence;Learning+DSA+%26+Competitive+Programming;Turning+Ideas+Into+Working+Solutions" alt="Typing SVG" />
 
 <br/><br/>
